@@ -25,7 +25,7 @@ Clonamos el repositorio en la carpeta
 
 Nos dirigimos a la carpeta que contiene el proyecto
 
-`$ cd Ec2AWS.git`
+`$ cd Ec2AWS`
 
 Compilamos con maven
 
